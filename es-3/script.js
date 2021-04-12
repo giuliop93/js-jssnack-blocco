@@ -12,4 +12,4 @@ var numeroOtto = prompt("inserisci un numero");
 var numeroNove = prompt("inserisci un numero");
 var numeroDieci = prompt("inserisci un numero");
 
-for ()
+for()
